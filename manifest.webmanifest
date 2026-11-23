@@ -1,0 +1,17 @@
+{
+  "name": "Wywiad – EOD",
+  "short_name": "Wywiad",
+  "description": "Wywiad z dowódcą i świadkami na miejscu zdarzenia oraz meldunek EO 200. Działa offline.",
+  "lang": "pl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#101310",
+  "theme_color": "#141814",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
